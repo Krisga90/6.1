@@ -1,0 +1,1 @@
+easy use of cctype lib. 
