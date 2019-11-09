@@ -15,8 +15,8 @@ int main()
 		else
 			std::cout << ch;
 	}
-
-	std::cin.get();
+	while (std::cin.get() != '\n')
+		continue;
 	std::cin.get();
 	return 0;
 }
